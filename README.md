@@ -47,6 +47,4 @@ Ensure the following environment variables are set:
   - LinkedIn: [aathilks](https://www.linkedin.com/in/aathilks/)
   - Email: atldeae@gmail.com
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 ```
